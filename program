@@ -1,0 +1,12 @@
+n=int(input("Enter the value: "))
+print("Hexadecimal of "+ str(n) + " : " +str(hex(n)))
+print("Octal of "+ str(n) + " : " +str(oct(n)))
+print("square root of "+ str(n) + " : " +str(n**0.5))
+
+
+
+output:-
+Enter the value: 10
+Hexadecimal of 10 : 0xa
+Octal of 10 : 0o12
+square root of 10 : 3.1622776601683795
